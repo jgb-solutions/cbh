@@ -12,4 +12,4 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 I didn't find a need for a lot of refactors other than the check for the length of the encrypted string, that didn't need to be done last.
 
-I also added 4 new jest tests to check different
+I also added 4 new jest tests to check different scenarios of passing different input types.
